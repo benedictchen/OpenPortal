@@ -1,4 +1,4 @@
-# OpenPortal
+# Open Portal Platform (OPP)
 
 A system whereby the entire platform auto-deploys on a regular basis and is powered by contributers and content providers.  
 The viewers/consumers of the content will pay for the content (either directly or indirectly) and the beneficiaries will be
