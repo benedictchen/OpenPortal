@@ -1,4 +1,6 @@
-# Open Portal Platform (OPP)
+# Open Platform Protocol (OPP)
+## A means to end traditional companies as we know it.
+
 
 A system whereby the entire platform auto-deploys on a regular basis and is powered by contributers and content providers.  
 The viewers/consumers of the content will pay for the content (either directly or indirectly) and the beneficiaries will be
@@ -9,14 +11,14 @@ a software platform.  The idea is to create a completely community owned and mai
 and at the same time based on merit rather that internal politics.  It also allows for people to be located anywhere in the world 
 with an internet connection that are able to contribute to the project.
 
-## Benefitting as a content provider
+### Benefitting as a content provider
 - Profiting as a content provider will depend on how much that content provider is able to generate profits directly from the consumer.
   For example, in the case of E-Learning content, each user that pays for a monthly subscription will contribute to the overall revenues
   of the platform.  Therefore, that additional user's revenues were thanks to a `contributer A`.  Therefore, the overall increase should
   be rewarded some fair amount (say 50%) to `contributer A` and the rest to the overall bucket which is then further divided up with the 
   maintainers of the site, hosting costs, etc.
   
-## Benefitting as a software developer
+### Benefitting as a software developer
 - Usually in any software engineering project, additional features need to be built as well as old bugs and problems solved.  We will refer
   to both the new features and bug fixes together as engineering contributions.  For each of these engineering contributions, we will
   need to measure the overall impact of these bugs to the platform as a whole.  Of course, we need to properly incentivate engineers
@@ -28,9 +30,7 @@ with an internet connection that are able to contribute to the project.
   customer revenues (and/or other revenues) are received, we evenly distribute the profits among the contributers for that month based on
   their story points and the impact of those points to the platform for that time period.
   
-
-
-## Proposed profit sharing
+### Proposed profit sharing
 1. Money comes in (either via customer memberships, advertising, sales, etc). as revenues.
 2. The initial costs are paid for (accounting fees, hosting fees, any licenses and fixed costs such as rent).  All these costs will be
    made public to everyone.
